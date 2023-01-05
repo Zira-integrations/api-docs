@@ -1,7 +1,6 @@
 
-![zira](images/zira-repo-image.png)
 
-## Overview
+# Zira API Docs
 
 This repository contains documentation, examples and code snippets for using zira public APIs in order to create custom zira applications
 or integrate zira data with BI tools or operational applications
